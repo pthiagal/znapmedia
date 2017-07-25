@@ -1,13 +1,8 @@
 {
-  "name": "creative",
-  "title": "Creative",
+  "name": "znapmedia",
+  "title": "Znap Media",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
-  "author": "Start Bootstrap",
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-  },
+  "author": "Pravin Thiagalingam",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -24,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/pthiagal/znapmedia"
   }
 }
